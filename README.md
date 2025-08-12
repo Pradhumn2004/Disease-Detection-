@@ -1,4 +1,4 @@
-Disease Detection using Machine Learning August 2025
+Disease Detection using Machine Learning 
 Technologies used: Python, TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib
 
 Developed a deep learning model to detect diseases from medical images with 95% accuracy.
